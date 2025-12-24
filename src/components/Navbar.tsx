@@ -22,7 +22,7 @@ export default function Navbar() {
             <span className="hidden md:block">Free shipping on orders over $50</span>
           </div>
           <div className="flex items-center space-x-4">
-            <Link href="/help" className="hover:text-gray-300">Help</Link>
+            <Link href="/help" className="hover:text-gray-300">Help jj  qj</Link>
             <span>|</span>
             <Link href="/track" className="hover:text-gray-300">Track Order</Link>
           </div>
